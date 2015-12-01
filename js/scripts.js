@@ -1,6 +1,6 @@
 $(window).load(function(){
 
-  var body = $("body"),
+  var body = $("#solar-system-container"),
       universe = $("#universe"),
       solarsys = $("#solar-system");
 
